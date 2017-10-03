@@ -1,2 +1,2 @@
-# master_thesis_codes
-Compilation of codes during my master thesis
+# Master Thesis Codes
+Compilation of codes during my work on master thesis
